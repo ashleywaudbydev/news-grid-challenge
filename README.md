@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/news-grid-LwBgs3Lim5)
 - Live Site URL:(https://00awaudby.github.io/news-grid-challenge/)
 
 ## My process
@@ -67,7 +67,7 @@ Just complete as many challeneges as i can to propgress my development and to im
 ## Author
 
 
-- Frontend Mentor - [@00awaudby](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@00awaudby](https://www.frontendmentor.io/profile/00awaudby)
 
 
 
