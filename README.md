@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/solutions/news-grid-LwBgs3Lim5)
-- Live Site URL:(https://00awaudby.github.io/news-grid-challenge/)
+- Live Site URL:(https://ashleywaudbydev.github.io/news-grid-challenge/)
 
 ## My process
 
